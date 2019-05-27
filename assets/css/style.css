@@ -47,7 +47,7 @@ Shared CSS
 }
 
 .col-8 {
-    width: 66.66%;
+    /* width: 66.66%; */
 }
 
 .col-9 {
@@ -100,8 +100,8 @@ body {
 }
 
 #brand h1 {
-    width: 210px;
-    padding: 17px;
+    /* width: 210px;
+    padding: 17px; */
     margin: 0px 0px 0px 40px;
     font-size: 2.2em;
     background: #4aaaa5;
@@ -245,6 +245,7 @@ CONTACT.HTML
     margin: 35px 15px 15px 35px;
     padding: 15px;
     overflow: auto;
+    width: 60vw;
 }
 
 #contact h2 {
